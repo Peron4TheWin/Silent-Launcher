@@ -1,6 +1,8 @@
 <h1>Python silent launcher</h1>
 <p>launch a program in background mode, no extra libraries requiered</p>
+
 # usage 
+
 <pre>
 <div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre-wrap hljs">python silent.pyw (drop here executable)
 example: python silent.pyw C:\Users\peron\Desktop\test.exe
